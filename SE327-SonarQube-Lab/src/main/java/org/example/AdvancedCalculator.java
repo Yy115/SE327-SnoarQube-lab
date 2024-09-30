@@ -1,3 +1,5 @@
+package org.example;
+
 public class AdvancedCalculator {
     public double power(int base, int exponent){
         return Math.pow(base, exponent);
